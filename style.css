@@ -80,7 +80,10 @@
   color: #30B868;
   border-radius: 50px;
   border-style: none;
-  
+}
+.b-btn:hover{
+  background-color: #30B868;
+  color: #ffffff;
 }
 .banner-2-but{
   margin-top: 32px;
@@ -94,6 +97,9 @@
   font-size: 16px;
   font-weight: 600;
   padding: 12.5px 16px;
+}
+.b-2-but2:hover{
+  background-color: #001931;
 }
 /*------------notes section start-----------*/
 .notes-container{
