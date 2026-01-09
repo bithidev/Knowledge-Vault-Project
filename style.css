@@ -62,7 +62,7 @@
 }
 .banner-container h1{
   color: #ffffff;
-  font-size: 72px;
+  font-size: 70px;
   font-weight: bold;
   margin: 16px 0;
 }
@@ -105,7 +105,6 @@
 .notes-container{
   padding: 120px 120px 0;
   text-align: center;
-  
 }
 .notes-grid{
   display: flex;
@@ -128,6 +127,7 @@
   padding: 1.75rem;
   box-shadow: 1px 4px 6px -1px rgba(0, 0, 0, 0.1);
   transition: transform 0.2s ease, box-shadow 0.2s ease;
+  
 }
 .notes-card-1:hover {
   transform: translateY(-4px);
@@ -138,24 +138,18 @@
     height: 50px;
     border-radius: 50px;
     background-color: #F95555; 
-    display: flex;
+    display: inline-block;
     align-items: center;
     justify-content: center;
     font-size: 1.5rem;
     margin-bottom: 1rem;
     padding: 20px;        
 }
-.notes-img img{
-  align-items: center;
-  justify-content: center;
-}
 .notes-title{
   font-size: 24px;
   padding: 16px 0;
 }
-.notes-card-1{
 
-}
 /*-----------second brain section-----------*/
 #second-brain-section{
   padding: 120px 120px;
@@ -192,7 +186,6 @@ margin-bottom: 30px;
 #clearly-section{
   padding: 0 120px 120px 120px;
 }
-
 #clearly-section .clearly-container{
   background-color: #F7F6F2;
   padding: 80px 40px;
@@ -207,7 +200,6 @@ h3{
   font-weight: bold;
   margin-bottom: 15px;
 }
-
 #clearly-section .clear-p1{
   color: #627382;
   margin-bottom: 24px;
