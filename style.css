@@ -97,6 +97,7 @@
   font-size: 16px;
   font-weight: 600;
   padding: 12.5px 16px;
+  margin-left: 10px;
 }
 .b-2-but2:hover{
   background-color: #001931;
@@ -149,7 +150,6 @@
   font-size: 24px;
   padding: 16px 0;
 }
-
 /*-----------second brain section-----------*/
 #second-brain-section{
   padding: 120px 120px;
